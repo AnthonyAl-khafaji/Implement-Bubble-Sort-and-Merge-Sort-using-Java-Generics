@@ -1,0 +1,1 @@
+This repository contains Java implementations of Bubble Sort and Merge Sort algorithms using generics, allowing flexibility for sorting various data types. Simply clone the repository, modify the sorting logic in Sorter.java as needed, and run the program to observe the sorting algorithms in action.
